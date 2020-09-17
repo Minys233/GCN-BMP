@@ -3,6 +3,12 @@
 Please refer to markdown files in every sub-directories to download datasets, best trained model and baseline performances. For performance comparison purposes, part of the code is modified from previous work.
 
 
+
+This work is done in **Multimedia Signal and Intelligent Information Processing (MSIIP)** lab, Department Of Electronic Engineering, Tsinghua University.
+
+
+
+
 ## Citing
 
 If you find GCN-BMP useful in your research, we ask that you cite the following papers:
